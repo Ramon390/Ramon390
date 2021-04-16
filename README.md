@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Ramon390
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning cpp.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ramon390/Ramon390 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-👋嗨，我是@Ramon390 n-👀我感兴趣.N-🌱我目前正在学习cpp。N-💞️我想和你一起学习。📫怎么联系我.Nn<！--nRamon390/Ramon 390是一个✨特殊的✨存储库，因为它的‘README.m’(此文件)出现在您的GitHub配置文件上。您可以单击预览链接查看更改。N->
